@@ -1,5 +1,5 @@
 {
-.appVersion = "3227";
+.appVersion = "3231";
 .formatVersion = 3;
 classes = (
 {
@@ -149,7 +149,7 @@ value = 960;
 },
 {
 name = typoDescender;
-value = -180;
+value = -300;
 },
 {
 name = typoLineGap;
@@ -161,7 +161,7 @@ value = 960;
 },
 {
 name = winDescent;
-value = 180;
+value = 300;
 },
 {
 name = hheaAscender;
@@ -169,7 +169,7 @@ value = 960;
 },
 {
 name = hheaDescender;
-value = -180;
+value = -300;
 },
 {
 name = hheaLineGap;
@@ -16879,7 +16879,7 @@ unicode = 273;
 },
 {
 glyphname = e;
-lastChange = "2023-08-17 21:36:43 +0000";
+lastChange = "2024-01-04 15:24:16 +0000";
 layers = (
 {
 anchors = (
@@ -16893,7 +16893,7 @@ pos = (420,0);
 },
 {
 name = top;
-pos = (240,480);
+pos = (300,480);
 }
 );
 layerId = m01;
@@ -17036,7 +17036,7 @@ unicode = 101;
 },
 {
 glyphname = eacute;
-lastChange = "2023-07-19 20:44:28 +0000";
+lastChange = "2024-01-04 15:24:20 +0000";
 layers = (
 {
 layerId = m01;
@@ -17045,7 +17045,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (180,0);
+pos = (240,0);
 ref = acutecomb;
 }
 );
@@ -17056,7 +17056,7 @@ unicode = 233;
 },
 {
 glyphname = ecaron;
-lastChange = "2023-07-19 20:44:28 +0000";
+lastChange = "2024-01-04 15:25:05 +0000";
 layers = (
 {
 layerId = m01;
@@ -17065,7 +17065,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (120,0);
+pos = (180,0);
 ref = caroncomb;
 }
 );
@@ -17076,7 +17076,7 @@ unicode = 283;
 },
 {
 glyphname = ecircumflex;
-lastChange = "2023-07-19 20:44:28 +0000";
+lastChange = "2024-01-04 15:24:20 +0000";
 layers = (
 {
 layerId = m01;
@@ -17085,7 +17085,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (120,0);
+pos = (180,0);
 ref = circumflexcomb;
 }
 );
@@ -17096,7 +17096,7 @@ unicode = 234;
 },
 {
 glyphname = edieresis;
-lastChange = "2023-07-19 20:47:40 +0000";
+lastChange = "2024-01-04 15:24:21 +0000";
 layers = (
 {
 layerId = m01;
@@ -17105,7 +17105,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (120,0);
+pos = (180,0);
 ref = dieresiscomb;
 }
 );
@@ -17116,7 +17116,7 @@ unicode = 235;
 },
 {
 glyphname = edotaccent;
-lastChange = "2023-07-19 20:44:28 +0000";
+lastChange = "2024-01-04 15:24:22 +0000";
 layers = (
 {
 layerId = m01;
@@ -17125,7 +17125,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (180,0);
+pos = (240,0);
 ref = dotaccentcomb;
 }
 );
@@ -17136,7 +17136,7 @@ unicode = 279;
 },
 {
 glyphname = egrave;
-lastChange = "2023-07-19 20:44:28 +0000";
+lastChange = "2024-01-04 15:24:22 +0000";
 layers = (
 {
 layerId = m01;
@@ -17145,7 +17145,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (180,0);
+pos = (240,0);
 ref = gravecomb;
 }
 );
@@ -17156,7 +17156,7 @@ unicode = 232;
 },
 {
 glyphname = emacron;
-lastChange = "2023-07-19 20:44:28 +0000";
+lastChange = "2024-01-04 15:24:23 +0000";
 layers = (
 {
 layerId = m01;
@@ -17165,7 +17165,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (120,0);
+pos = (180,0);
 ref = macroncomb;
 }
 );
@@ -39014,7 +39014,7 @@ value = "https://scripts.sil.org/OFL";
 settings = {
 gridLength = 60;
 };
-unitsPerEm = 1000;
+unitsPerEm = 1260;
 versionMajor = 1;
 versionMinor = 0;
 }

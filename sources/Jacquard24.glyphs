@@ -1,5 +1,5 @@
 {
-.appVersion = "3227";
+.appVersion = "3231";
 .formatVersion = 3;
 classes = (
 {
@@ -145,11 +145,11 @@ fontMaster = (
 customParameters = (
 {
 name = typoAscender;
-value = 960;
+value = 1020;
 },
 {
 name = typoDescender;
-value = -180;
+value = -270;
 },
 {
 name = typoLineGap;
@@ -157,19 +157,19 @@ value = 0;
 },
 {
 name = winAscent;
-value = 960;
+value = 1020;
 },
 {
 name = winDescent;
-value = 180;
+value = 270;
 },
 {
 name = hheaAscender;
-value = 960;
+value = 1020;
 },
 {
 name = hheaDescender;
-value = -180;
+value = -270;
 },
 {
 name = hheaLineGap;
@@ -115108,18 +115108,20 @@ unicode = 8218;
 },
 {
 glyphname = quotedblbase;
+lastChange = "2024-01-04 16:07:59 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
 {
+pos = (150,0);
 ref = comma;
 },
 {
 ref = comma;
 }
 );
-width = 180;
+width = 330;
 }
 );
 unicode = 8222;
@@ -138939,8 +138941,7 @@ key = licenses;
 values = (
 {
 language = dflt;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL
-";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 }
 );
 },
@@ -138952,7 +138953,7 @@ value = "https://scripts.sil.org/OFL";
 settings = {
 gridLength = 30;
 };
-unitsPerEm = 1000;
+unitsPerEm = 1290;
 versionMajor = 1;
 versionMinor = 0;
 }
