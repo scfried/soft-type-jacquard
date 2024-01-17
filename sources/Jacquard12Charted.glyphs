@@ -1,5 +1,5 @@
 {
-.appVersion = "3231";
+.appVersion = "3234";
 .formatVersion = 3;
 classes = (
 {
@@ -354638,7 +354638,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type)";
+value = "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type-jacquard)";
 }
 );
 },
