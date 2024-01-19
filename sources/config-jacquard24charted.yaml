@@ -2,3 +2,4 @@ sources:
   - Jacquard24Charted.glyphs
 familyName: Jacquard 24 Charted
 buildOTF: false
+autohintTTF: false

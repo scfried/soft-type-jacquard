@@ -1,5 +1,5 @@
 {
-.appVersion = "3231";
+.appVersion = "3234";
 .formatVersion = 3;
 classes = (
 {
@@ -161,7 +161,7 @@ value = 1020;
 },
 {
 name = winDescent;
-value = 270;
+value = 750;
 },
 {
 name = hheaAscender;
@@ -138923,7 +138923,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type)";
+value = "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type-jacquard)";
 }
 );
 },
@@ -138941,13 +138941,13 @@ key = licenses;
 values = (
 {
 language = dflt;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org";
 }
 );
 },
 {
 key = licenseURL;
-value = "https://scripts.sil.org/OFL";
+value = "https://openfontlicense.org";
 }
 );
 settings = {
