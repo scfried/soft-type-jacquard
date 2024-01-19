@@ -1,5 +1,7 @@
 <h1>The Soft Type Collection, Jacquard</h1>
 
+![Sample of Jacquard](documentation/soft-type-collection-promo-JACQUARD-2-Standard.png)
+
 <h5>The Typeface</h5>
 <p>Jacquard is an expanded revival typeface from a Victorian needlepoint alphabet designed in Berlin by Heinrich Kuehn circa 1880.</p>
 
