@@ -159,11 +159,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 960;
+value = 1020;
 },
 {
 name = winDescent;
-value = 300;
+value = 720;
 },
 {
 name = hheaAscender;
@@ -354656,14 +354656,13 @@ key = licenses;
 values = (
 {
 language = dflt;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL
-";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org";
 }
 );
 },
 {
 key = licenseURL;
-value = "https://scripts.sil.org/OFL";
+value = "https://openfontlicense.org";
 }
 );
 unitsPerEm = 1260;
