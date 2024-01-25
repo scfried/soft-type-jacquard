@@ -3,3 +3,5 @@ sources:
 familyName: Jacquard 24 Charted
 buildOTF: false
 autohintTTF: false
+decomposeTransformedComponents: true
+flattenComponents: true
