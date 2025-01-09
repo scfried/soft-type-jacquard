@@ -5,3 +5,4 @@ buildOTF: false
 autohintTTF: false
 decomposeTransformedComponents: true
 flattenComponents: true
+extraFontmakeArgs: --filter "ufo2ft.filters.decomposeComponents::DecomposeComponentsFilter"
