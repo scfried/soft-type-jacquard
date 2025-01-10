@@ -3,3 +3,4 @@ sources:
 familyName: Jacquard 12 Charted
 buildOTF: false
 autohintTTF: false
+extraFontmakeArgs: --filter "ufo2ft.filters.decomposeComponents::DecomposeComponentsFilter"
